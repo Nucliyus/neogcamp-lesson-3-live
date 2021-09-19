@@ -1,19 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body {
-    color: red;
-}
-
-h1 {
-    color: blue;
-}
-
-h2 {
-    color: green;
-}
-
-#lib-header {
-    color: grey;
-}
-
-.para {
-    color: pink;
+    font-family: 'Poppins', sans-serif;
 }
